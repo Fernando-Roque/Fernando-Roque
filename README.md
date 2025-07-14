@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou graduado em Ciência da Computação pela Universidade Federal de Lavras–MG, UFLA. Participei de iniciação científica na área de desenvolvimento de software e Experiência do Usuário (UX). Tive a chance de trabalhar durante dois anos no Laboratório Alcance, onde fiz pesquisas em tecnologias assistivas, sempre visando elaborar soluções mais acessíveis e inclusivas. Minha jornada combina o domínio técnico com a experiência prática: atuei como Auxiliar Administrativo na Construtora Remo, gerenciando processos operacionais e Ordens de Serviço, e como Leiturista na Prefeitura de Bom Jesus dos Perdões, onde desenvolvi minha empatia e o compromisso com o atendimento ao público.
+<p>Sou graduado em Ciência da Computação pela Universidade Federal de Lavras–MG, UFLA. Participei de iniciação científica na área de desenvolvimento de software e Experiência do Usuário (UX). Tive a chance de trabalhar durante dois anos no Laboratório Alcance, onde fiz pesquisas em tecnologias assistivas, sempre visando elaborar soluções mais acessíveis e inclusivas. Minha jornada combina o domínio técnico com a experiência prática: atuei como Auxiliar Administrativo na Construtora Remo, gerenciando processos operacionais e Ordens de Serviço, e como Leiturista na Prefeitura de Bom Jesus dos Perdões, onde desenvolvi minha empatia e o compromisso com o atendimento ao público.</p>
 
 ## 📊 Estatísticas
 
@@ -37,8 +37,11 @@ Sou graduado em Ciência da Computação pela Universidade Federal de Lavras–M
 
 </p>
 
+---
+
 ### 🧰 Languages and Tools (Idiomas e ferramentas)
 
+<p>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -68,3 +71,5 @@ Sou graduado em Ciência da Computação pela Universidade Federal de Lavras–M
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!--img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /-->
+
+</p>
